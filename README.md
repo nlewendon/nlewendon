@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nlewendon
+- 👀 I’m interested in language, words, design, and how they hang out together
+- 🌱 I’m currently learning more about mapping and tools
+- 💞️ I’m looking to collaborate on accessibility/a11y best practices, as well as design system updates
+- 📫 How to reach me – contact details are on my website at http://natalielewendon.me
